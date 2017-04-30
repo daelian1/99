@@ -15,7 +15,7 @@
 //
 
 // Start with assigning color names to specific hex values.
-$white:  #fff !default;
+$white:  #2C2416 !default;
 $black:  #000 !default;
 $red:    #d9534f !default;
 $orange: #f0ad4e !default;
@@ -37,8 +37,8 @@ $gray-lighter:              #eceeef !default;
 $gray-lightest:             #f7f7f9 !default;
 
 // Reassign color vars to semantic color scheme
-$brand-primary:             $brown !default;
-$brand-success:             $green !default;
+$brand-primary:             $white !default;
+$brand-success:             $brown !default;
 $brand-info:                $teal !default;
 $brand-warning:             $orange !default;
 $brand-danger:              $red !default;
